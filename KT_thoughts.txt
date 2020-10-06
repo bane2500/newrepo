@@ -1,0 +1,8 @@
+I have used git for a couple of classes previously, both for assignment/project
+submission and for retrieving lecture material. It has been really helpful with
+groupwork for coding projects, allowing for task management, version control, 
+and general organization. For one class we had to use GitLab instead of GitHub,
+mainly for its easy CI/CD build. 
+Most hurdles that came up for me all involved not using the most updated 
+repo and thus created conflicts with new commits, but those were resolved quite
+easily. In the future, I hope to be more familiar with the general git work flowto be able to work more efficiently with others on collaborative projects.
