@@ -1,0 +1,3 @@
+I started using github when I was a freshman in college. I previously didn't have experience, and at first, understanding how the code management platform works seemed too be a bit difficult for me. However, as I practiced more I was able to learn more about how git worked. I began cloning repositories from projects I was interested in, and I started learning more about how the platform worked. I also began working on projects with teammates. 
+
+Perhaps the most difficult part of learning git was understanding the concept of local, remote repositories, as well as the stages of commits and merges. The lecture last Thursday greatly helped in understanding these concepts 
