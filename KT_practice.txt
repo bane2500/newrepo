@@ -1,0 +1,13 @@
+This first block means the current branch is the main one, not on some sub 
+branch like dev, so all files are updated on the same branch
+
+The file KT_status.txt was recently modified, but the git add command has not
+been used, so they're not staged for commiting this updated version in order to
+push these changes, must first add, then commit, and push
+
+The file KT_noadd.txt is the only file that has not previously been added so 
+git is not tracking its changes as there is no copy on the remote repo
+
+Basically says since the last push, the changes made on local repo have not 
+been added to the staging area and there is nothing to commit
+
