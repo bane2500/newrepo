@@ -11,3 +11,6 @@ git is not tracking its changes as there is no copy on the remote repo
 Basically says since the last push, the changes made on local repo have not 
 been added to the staging area and there is nothing to commit
 
+The last block shows what the status would be for working on files in a branch
+that is not the main branch. In this case, the "temp" branch was created 
+and the status shows what the current branch is.
