@@ -7,5 +7,4 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
-This block of text means that apart from my untracked/unadded files, my local repository is similar to my remote (upstream) repository. This is specifically shown in the line "nothing added to commit but untracked files present" line. 
 
