@@ -1,0 +1,24 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+# means the current branch is the main one, not on some sub branch like dev, 
+# so all files are updated on the same branch
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   KT_status.txt
+
+# the file KT_status.txt was recently modified, but the git add command has not
+# been used, so they're not staged for commiting this updated version
+# in order to push these changes, must first add, then commit, and push 
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	KT_noadd.txt
+
+# the file KT_noadd.txt is the only file that has not previously been added 
+# so git is not tracking its changes as there is no copy on the remote repo
+
+no changes added to commit (use "git add" and/or "git commit -a")
+# basically says since the last push, the changes made on local repo have not 
+# been added to the staging area and there is nothing to commit
